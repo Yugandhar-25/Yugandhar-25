@@ -15,10 +15,13 @@
  <p align="center">
 🤝 &nbsp; Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yugandhar-ghatge-30911919b/)
+ &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yugandhar-ghatge-30911919b/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GhatgeYugandhar)
+[<img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=red" />](https://www.instagram.com/yugandhar_ghatge/)
+[<img src="https://img.shields.io/badge/stackoverflow-%231DA1F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange" />](https://stackoverflow.com/users/14360283/yugandhar-ghatge)  [<img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=red" />](mailto:yugandharghatge25@gmail.com)    
 
-  <p align="center">
+           
+<p align="center">
 <hr>
 <p align="center">
  🛠 &nbsp; Tech Stack
