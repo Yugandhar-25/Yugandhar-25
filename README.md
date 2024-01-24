@@ -7,7 +7,7 @@
 
 <!-- TODO: Add last video link -->
 <p align="center">
-- :seedling: I’m currently studying in A.P.S.I.T Thane
+- :seedling: I’m an engineer from A.P.S.I.T Thane
 - 🤔 I’m looking for an job/internship.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: He/Him
