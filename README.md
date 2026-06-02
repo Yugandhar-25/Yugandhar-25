@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yugandhar-ghatge-30911919b/">
+  <a href="https://www.linkedin.com/in/yugandhar-ghatge/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:yugandharghatge25@gmail.com">
